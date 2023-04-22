@@ -1,0 +1,1 @@
+export const BASE_URL = "https://myblog-backend-jb3q.onrender.com";
